@@ -29,13 +29,13 @@ The server provides the following MCP tools:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/JoseGarayar/mcp_test.git
    cd mcp_test
    ```
 
 2. Clone the api employee repository:
     ```bash
-   git clone <repository-url>
+   git clone https://github.com/JoseGarayar/api_employees.git
    ```
 
 2. Install dependencies using uv:
